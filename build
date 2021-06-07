@@ -1,0 +1,2 @@
+nasm main.asm -fbin -o killallall
+chmod 777 killallall
